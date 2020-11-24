@@ -1,0 +1,1 @@
+Shop React Native App, part of Maximilian's Udemy React Native Course
